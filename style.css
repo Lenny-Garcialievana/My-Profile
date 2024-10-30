@@ -1,0 +1,71 @@
+body {
+	background-color:#FFE1FF;
+	color:#433878 ;
+	// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+
+.lora-<uniquifier> }
+  
+
+	h1, h2 {font-family: courier;
+	// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 700 
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: 20px;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+}
+h1 {
+	color:#433878 ;
+}
+
+h2 {
+	color: #7E60BF;
+}
+	
+a {
+  color: darkred;
+}
+
+a:hover {
+	color: green;
+}
+
+
+.img-circle {
+	border-radius: 50%;
+	width: 130px;
+
+  }
+
+  @media (max-width:2000px) {
+
+  	.container {
+  		width: 800px;
+  		
+
+  	}
+   }
+
+  @media (max-width:800px ) {
+  	.container {
+  		width: 600px;
+  	}
+  }
+
+  @media (max-width:550px ) {
+  	.container {
+  		width:500px;
+  	}
+  }
+
+   @media (max-width:300px ) {
+  	.container {
+  		width:300px;
+  	}
+  }
